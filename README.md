@@ -28,4 +28,4 @@
 
 ### Контакты
 * elena.liubimova3@gmail.com
-* [telegram](t.me/elenaLiubimova)
+* t.me/elenaLiubimova
