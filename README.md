@@ -12,9 +12,9 @@
 Также знакома с Typescript и Redux/Redux Toolkit
 
 ### Ссылки на деплой основных выполненных проектов:
-* [Учебный проект Mesto на реакте](https://elenaliubimova.github.io/mesto-react/)
-* [Самостоятельно разрабатываемый проект "Прогноз погоды" на реакте](https://weather-app2.surge.sh/)
-* [Учебный проект "Путешествия по России", адаптивная верстка под все устройства](https://elenaliubimova.github.io/russian-travel/)
+* [проект "Mesto" на реакте](https://elenaliubimova.github.io/mesto-react/)
+* [проект "Прогноз погоды" на реакте](https://weather-app2.surge.sh/)
+* [проект "Путешествия по России", адаптивная верстка под все устройства](https://elenaliubimova.github.io/russian-travel/)
 
 С кодом всех проектов можно ознакомиться в соответствующих репозиториях.
 
