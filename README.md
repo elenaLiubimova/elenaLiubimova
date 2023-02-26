@@ -15,7 +15,7 @@
 * [проект "Mesto" на реакте](https://elenaliubimova.github.io/mesto-react/)
 * [проект "Прогноз погоды" на реакте](https://weather-app2.surge.sh/)
 * [проект "Путешествия по России", адаптивная верстка под все устройства](https://elenaliubimova.github.io/russian-travel/)
-* проект "Страны", Redux: (https://github.com/elenaLiubimova/countries)
+* проект "Страны", Redux: https://github.com/elenaLiubimova/countries
 
 С кодом всех проектов можно ознакомиться в соответствующих репозиториях.
 
