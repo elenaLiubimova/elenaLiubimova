@@ -2,22 +2,7 @@
 Меня зовут Лена, я изучаю веб-разработку в Яндекс Практикуме и ищу свою первую работу во фронтенде.
 
 ### Мой стек:
-* Javascript
-* React
-* HTML
-* CSS
-* SCSS
-* БЭМ
-
-Также знакома с Typescript и Redux/Redux Toolkit
-
-### Ссылки на деплой основных выполненных проектов:
-* [проект "Mesto" на реакте](https://elenaliubimova.github.io/mesto-react/)
-* [проект "Прогноз погоды" на реакте](https://weather-app2.surge.sh/)
-* [проект "Путешествия по России", адаптивная верстка под все устройства](https://elenaliubimova.github.io/russian-travel/)
-* проект "Страны", Redux: https://github.com/elenaLiubimova/countries
-
-С кодом всех проектов можно ознакомиться в соответствующих репозиториях.
+Javascript, React, Redux/Redux Toolkit,  Typescript, HTML, CSS, SCSS, БЭМ, Styled Components, CSS Modules, Webpack
 
 ### Образование
 Высшее техническое
@@ -27,7 +12,7 @@
 Год выпуска 2018 (квалификация - инженер)
 
 ### Текущая деятельность
-Инженер в области систем управления космическими аппаратами с опытом более 5 лет.
+Инженер в области систем управления космическими аппаратами.
 
 ### Контакты
 * elena.liubimova3@gmail.com
