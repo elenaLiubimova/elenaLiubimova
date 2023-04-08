@@ -11,9 +11,6 @@ Javascript, React, Redux/Redux Toolkit,  Typescript, HTML, CSS, SCSS, БЭМ, St
 Год выпуска - 2018  
 Квалификация - инженер
 
-### Текущая деятельность
-Инженер в области систем управления космическими аппаратами.
-
 ### Контакты
 * elena.liubimova3@gmail.com
 * t.me/elenaLiubimova
